@@ -108,7 +108,7 @@ CLASSIFIERS = [
 import versioneer  # noqa
 
 setup(
-    name='ibis-framework',
+    name='ibis-nubank',
     packages=['ibis',
               'ibis.expr',
               'ibis.expr.tests',
